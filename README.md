@@ -1,3 +1,9 @@
+Repo archived
+=============
+
+This repo is archived and no longer in use or up-to-date. Please see https://github.com/Grokzen/docker-redis-cluster for a updated and more modern version of what this repo used to implement.
+
+
 travis-redis-cluster
 ====================
 
